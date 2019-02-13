@@ -30,5 +30,13 @@ public class BookApp {
 
         System.out.println(b.getDisplayText());
 
+        System.out.print("\nEnter quantity of this book you would like to order: ");
+
+        int quantity = keybd.nextInt();
+
+        if (b.getisInStock())
+        System.out.println("Total price for books ordered:" + b.calculate_Pricing(quantity));
+        else System.out.println("Sorry this book currently out of stock.");
+
     }
 }

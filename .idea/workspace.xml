@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9eca746-0154-40d8-9217-43542605b3c6" name="Default Changelist" comment="" />
+    <list default="true" id="e9eca746-0154-40d8-9217-43542605b3c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BookApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BookApp.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/BookApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="442">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -23,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="170" column="34" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
+            <state relative-caret-position="2041">
+              <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#528#529#0" expanded="true" />
@@ -45,6 +49,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -55,11 +62,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="752" />
-    <option name="y" value="2" />
+    <option name="x" value="668" />
     <option name="width" value="1131" />
     <option name="height" value="1019" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -133,15 +140,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550015517419</updated>
-      <workItem from="1550015522938" duration="3783000" />
+      <workItem from="1550015522938" duration="6827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3783000" />
+    <option name="totallyTimeSpent" value="6827000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="752" y="2" width="1131" height="1019" extended-state="0" />
+    <frame x="668" y="0" width="1131" height="1019" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -152,7 +160,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" weight="0.32908458" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32908458" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -176,8 +184,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="170" column="34" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
+        <state relative-caret-position="2041">
+          <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#528#529#0" expanded="true" />
@@ -190,8 +198,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/BookApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="442">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>

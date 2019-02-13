@@ -181,4 +181,10 @@ public class Book {
 
     }
 
+
+    public double calculate_Pricing (int num) {
+        if (isInStock) return (num * getPrice());
+        else return (-1);
+    }
+
 }
